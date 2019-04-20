@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a JAVA maven project that takes a collection of letters as input and outputs a list of words with their meaning that are possible from 
+This is a Spring boot project that takes a collection of letters as input and outputs a list of words with their meaning that are possible from 
 permutation of the letters.
 
 ## Running the application on your local machine
